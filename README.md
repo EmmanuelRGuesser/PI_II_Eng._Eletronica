@@ -18,12 +18,12 @@ Acesso rápido:
   - Segurança
     
   Outro ponto que vale destacar é que para pessoas idosas ou que possuem alguma deficiência, a domótica auxilia em algumas atividades corriqueiras que para essas pessoas, como varrer o chão , por exemplo.
-
-
-
+  
+  Foi utilizada a metodologia CDIO neste projeto, ela consiste em um processo de:
+  *Conceito -> Design -> Implementação -> Operação*. Podendo ser acessado no menu de acesso rápido para ver cada parte do projeto.
 
 ## Referências
 
-Colocar aqui as referências. _Sempre em formato ABNT_.
+ADAMI, Anna. **Domótica.** Disponível em: <https://www.infoescola.com/tecnologia/domotica/>. Acesso em: 18 out. 2021.
+MATTEDE, Henrique. **Domótica – O que é e quais as vantagens!** Disponível em: <https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/>. Acesso em: 18 out. 2021.
 
-ADMIN. **Casa inteligente: a tecnologia de Black Mirror já está o seu alcance!** Disponível em: <https://www.delmak.com.br/casa-inteligente-a-tecnologia-de-black-mirror-ja-esta-ao-seu-alcance/>. Acesso em: 23 mai. 2021.
