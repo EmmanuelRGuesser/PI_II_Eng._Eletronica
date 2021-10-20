@@ -20,7 +20,7 @@ Acesso rápido:
   Outro ponto que vale destacar é que para pessoas idosas ou que possuem alguma deficiência, a domótica auxilia em algumas atividades corriqueiras que para essas pessoas, como varrer o chão , por exemplo.
   
   Foi utilizada a metodologia CDIO neste projeto, ela consiste em um processo de:
-  *Conceito -> Design -> Implementação -> Operação*. Podendo ser acessado no menu de acesso rápido para ver cada parte do projeto.
+  *Conceito -> Design -> Implementação -> Operação*. Podendo ser acessado no menu de acesso rápido para ver cada parte do expecifica do projeto.
 
 ## Referências
 
