@@ -28,7 +28,7 @@ Este projeto de domótica tem como objetivo proporcionar uma casa com mais prati
 
 Para a conclusão dos objetivos serão necessários: 
 
-- Placa MEGA 2560 R3
+ - Placa MEGA 2560 R3
  - Micro Servo SG92R 9g TowerPro
  - Módulo Sensor de Umidade/Nível Água Chuva
  - Módulo Relé 5 V e um Canal
@@ -38,5 +38,8 @@ Para a conclusão dos objetivos serão necessários:
  - Sensor de presença e movimento PIR
  - Sensor de gás MQ-2 inflamável e fumaça
  - Sensor ultrasônico HC-SR04
-- Buzzer passivo
+ - Buzzer passivo
+ - Led branco
+ - Botão Push-button
+ - resistores
  - Display LCD 16×2 I2C Backlight Azul
