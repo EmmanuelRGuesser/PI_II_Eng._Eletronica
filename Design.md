@@ -24,10 +24,10 @@ Quantidade  | Tecnologias
 1           |Sensor ultrasônico HC-SR04
 1           |Buzzer passivo
 1           |Cooler - Ventilador
-1           |Led branco
-1           |Botão Push-button
-1           |Resistor 680 Ω
+1           |Led
+1           |Resistor para led
 2           |Resistor 10k Ω
+1           |Botão Push-button
 1           |Display LCD 16×2 I2C Backlight Azul
 
 ### Manquete eletrônica
