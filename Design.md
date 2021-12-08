@@ -34,7 +34,7 @@ Quantidade  | Tecnologias
 
 A imagem abaixo, mostra uma representação de como será feita a ligação dos componetes eletrônicos presentes neste projeto.
 
-![circuito_projetoPI](https://github.com/EmmanuelRGuesser/PI_II_Eng._Eletronica/blob/main/imagens/maquete%20eletronica.jpg)
+![circuito_projetoPI](https://github.com/EmmanuelRGuesser/PI_II_Eng._Eletronica/blob/main/imagens/Maquete%20Eletr%C3%B4nica.png)
 
 ### Planta baixa
 
