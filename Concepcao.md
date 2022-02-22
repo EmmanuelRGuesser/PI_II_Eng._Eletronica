@@ -12,7 +12,7 @@ Este projeto de domótica tem como objetivo proporcionar uma casa com mais prati
 
 - Controle de luminosidade: a fim de economizar energia, em dias ensolarados a iluminação da casa diminuirá;
 
-- Controle de temperatura: para proporcionar uma casa com a temperatura mais agradável, quando a temperatura passar de de 28 Graus ou for abaixo de 18 Graus, o sistema de climatização será acionado para casa ficar em 24 Graus;
+- Controle de temperatura: para proporcionar uma casa com a temperatura mais agradável, quando a temperatura passar de de 26 Graus ou for abaixo de 18 Graus, o sistema de climatização será acionado para casa ficar em 22 Graus;
 
 - Controle do portão: o sistema quando identificar que tem visita, acionará a companhia e vai solicitar ao usuário que abra o portão caso queira;
 
