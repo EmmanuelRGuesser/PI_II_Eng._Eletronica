@@ -8,20 +8,16 @@ Acesso rápido:
 
 Este projeto de domótica tem como objetivo proporcionar uma casa com mais praticidade, facilidade no controle dos recursos, ter mais conforto  e segurança, para realizar isto temos os objetivos abaixo à seguir:
 
-- Modo seguro: durante a noite ou quando for acionado manualmente, quando o sensor de presença detectar uma movimentação fora de casa será acionado o buzzer, a iluminação da casa acenderá (caso for noite);
+- Modo seguro: quando estiver ativo e o sensor de presença detectar uma movimentação fora de casa será acionado o buzzer, a iluminação da casa acenderá, afim  de alertar;
 
-- Controle de luminosidade: a fim de economizar energia, em dias ensolarados a iluminação da casa diminuirá;
+- Controle de luminosidade: para economizar energia, em dias ensolarados a iluminação da casa fica desativada, utilizando apenas a iluminção solar no interior da casa;
 
-- Controle de temperatura: para proporcionar uma casa com a temperatura mais agradável, quando a temperatura passar de de 26 Graus ou for abaixo de 18 Graus, o sistema de climatização será acionado para casa ficar em 22 Graus;
+- Controle de temperatura: para proporcionar uma casa com a temperatura mais agradável, o sistema de climatização sempre  mantém a temperatura da casa em 22° Celsius;
 
-- Controle do portão: o sistema quando identificar que tem visita, acionará a companhia e vai solicitar ao usuário que abra o portão caso queira;
+- Sistema  de visita:  quando identificar que possui visita, acionará a companhia e caso o usúario deseje abrir o portão é somente apertar o botão; 
 
-- Sistema de irrigação do jardim: para se ter o jardim sempre verde, quando o nível de água do reservatório estiver acima de 20% e a umidade estiver baixa, será acionada a irrigação de plantas do jardim ou manualmente;
+- Sensor de gás: quando o sensor detectar um nível superior de gás dentro da casa, os interruptores do sistema de iluminação será desabilitado, para evitar uma faísca;
 
-- Sensor de gás: quando o sensor detectar um nível superior de gás dentro da casa, a janela será aberta para se ter uma ventilação, e os interruptores do sistema de iluminação será desabilitado, para evitar uma faísca;
-
-- Controle do usuário: a interação manual será feita através de uma interface no computador;
-
-- A matriz de leds juntamente com o buzzer alertaram o usuário, caso um dos sistemas descritos acima sejam acionados;
+- O buzzer alertará o usuário, caso um dos sistemas descritos acima sejam acionados;
 
 - As informações dos sensores e dos sistemas da casa serão mostradas no display de LCD;
